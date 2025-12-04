@@ -6,6 +6,7 @@ void setup() {
   size(400, 400);
   sub = new sub(180, 350); 
   player = new player(180, 60);
+  jelly = new jelly(100, 125);
 }
 
 void draw() {
